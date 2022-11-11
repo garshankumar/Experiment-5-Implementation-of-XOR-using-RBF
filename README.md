@@ -35,6 +35,9 @@ The RBF of hidden neuron as gaussian function
 /** Write the Algorithm in steps**/
 
 ## PROGRAM:
+name:garshan kumar
+reg no: 212219040034
+def end_to_end(X1, X2, ys, mu1, mu2): from_1 = [gaussian_rbf(i, mu1) for i in zip(X1, X2)] from_2 = [gaussian_rbf(i, mu2) for i in zip(X1, X2)]
 
 
 
